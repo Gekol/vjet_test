@@ -2,7 +2,7 @@
 
 1. Create venv
 2. Install libraries.
-```python install requirements.txt```
+```pip install -r requirements.txt```
 3. Run tests
 ```pytest```
 4. Run server
